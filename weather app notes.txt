@@ -1,0 +1,10 @@
+tkinter for GUI graphical user interface (installed with python, dont need to separately install on terminal)
+
+requests for data handling (for api management)(pip install requests)
+
+FOR API:
+go to openweathermap and subscribe to current weather api
+once subscribed, go to myapikeys to get your api key (which will be useful when we use postman)
+postman is used to build, use and manage APIs
+
+for changing background color use: canvas.configure(#colorcode)
